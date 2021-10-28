@@ -1,16 +1,4 @@
 /*!
- * vue-youtube v1.4.0
- * (c) 2019 Antério Vieira
- * Released under the MIT License.
- */
-
-/**
-* @link https://github.com/gajus/sister for the canonical source repository
-* @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
-*/
-
-
-/*!
  * vue-awesome-swiper v4.1.1
  * Copyright (c) Surmon. All rights reserved.
  * Released under the MIT License.
@@ -31,6 +19,37 @@ MERCHANTABLITY OR NON-INFRINGEMENT.
 See the Apache Version 2.0 License for specific language governing permissions
 and limitations under the License.
 ***************************************************************************** */
+
+
+/*!
+  * vue-router v3.5.2
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+
+/*!
+ * vue-youtube v1.4.0
+ * (c) 2019 Antério Vieira
+ * Released under the MIT License.
+ */
+
+/**
+* @link https://github.com/gajus/sister for the canonical source repository
+* @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
+*/
 
 
 /*!
@@ -87,23 +106,4 @@ and limitations under the License.
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
- */
-
-
-/*!
-  * vue-router v3.5.2
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
- * Released under the MIT License.
- */
-
-/*!
- * vuex v3.6.2
- * (c) 2021 Evan You
- * @license MIT
  */
